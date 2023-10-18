@@ -1,4 +1,4 @@
-### My Parser
+git commit -m "first commit"### My Parser
 
 My paser for educational purpose.
 
@@ -8,6 +8,6 @@ My paser for educational purpose.
 ### Example
 
 
-```my rust programe
+```my rust program
 ...
 ```

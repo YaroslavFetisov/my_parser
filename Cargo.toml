@@ -3,6 +3,7 @@ name = "my_parser_yaroslav_fetisov"
 version = "0.1.0"
 edition = "2021"
 license = "MIT" 
+description = "A short description of my package"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

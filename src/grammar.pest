@@ -1,0 +1,5 @@
+/// Terminal rule ...
+
+field = { (ASCII_DIGIT | "." | "-")+ }
+record = { field ~ ("," ~ field)* }
+file = { SOI ~ (record ~ ("\r\n" | "\n"))* ~ EOI }

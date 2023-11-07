@@ -19,6 +19,7 @@ pub struct Grammar;
 #[cfg(test)]
 mod tests {
 
+    use anyhow::anyhow;
     use super::*;
 
     #[test]
